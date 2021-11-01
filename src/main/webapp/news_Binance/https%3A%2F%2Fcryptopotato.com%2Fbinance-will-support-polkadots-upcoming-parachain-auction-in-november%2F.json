@@ -1,0 +1,42 @@
+{
+    "authors": [
+        "Mandy Williams",
+        "More Posts This Author",
+        "About The Author",
+        "Mandy Williams Is A Full-Time Reporter At Cryptopotato.",
+        "She Joined The Cryptocurrency Space In Early During Her Search For Financial Freedom",
+        "Has Remained Devoted To The Industry."
+    ],
+    "date_download": "2021-10-18 15:37:28",
+    "date_modify": null,
+    "date_publish": "2021-10-15 13:41:16",
+    "description": "Leading cryptocurrency exchange Binance has announced that it will support Polkadot's upcoming parachain slot auction",
+    "filename": "https%3A%2F%2Fcryptopotato.com%2Fbinance-will-support-polkadots-upcoming-parachain-auction-in-november%2F.json",
+    "image_url": "https://cryptopotato.com/wp-content/uploads/2021/10/BinancePolkadot.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Binance, the world\u2019s biggest cryptocurrency exchange, has continued to express its support for the ecosystem development of the sharded heterogeneous multichain blockchain network, Polkadot.\nIn an official announcement on Friday, the company revealed that it will start the Polkadot Parachain Slot Auction which is scheduled to commence in November.\n\u201cA separate announcement will be posted with more details. Please stay tuned for the upcoming initiatives!,\u201d the exchange said.\nWhat are Parachains?\nParachains are distinct layer 1 blockchains that can run in parallel and send data to each other. Their presence in Polkadot will usher in a multichain architecture of different blockchain networks in the Polkadot ecosystem.\nThe protocol intends to enable several other layer 1 blockchains like Bitcoin and Ethereum to seamlessly connect to its ecosystem, allowing them all to work together as part of a larger one.\nAdditionally, Polkadot parachains can seamlessly share data with other blockchain networks and unlock a lot of opportunities within the crypto space.\nADVERTISEMENT\nThe integration of these parachains will encourage a lot more interoperability across different DLT networks in the coming years.\nOver the past five years, the Polkadot team has been experimenting with its parachain technology and every testing was carried out on its canary network, Kusama.\nEarlier in June, Polkadot successfully deployed the first batch of parachains on Kusama. Since then, Kusama has auctioned about 11 parachain slots, increasing the number of activities on the network.\nPolkadot\u2019s Parachain Auctions to Begin November 11\nThe success of the parachains deployed on Kusama is a key determining factor in how ready Polkadot is to officially launch its parachains.\nCurrently, the Polkadot Parachain code is finally ready and the auctions are scheduled to start on November 11, 2021.\nThe first batch of the Parachain auctions will last for five weeks, featuring one auction each week. Additionally, every auction will select a parachain slot for a total of 96 weeks.\nDOT Experience Massive Surge\nFollowing the announcement of the proposed dates for the Parachain Slot Auction on Wednesday, Polkadot\u2019s native token, $DOT, surged by more than 19% to a high of $43.6 on that same day. Since then, though, the asset has retraced slightly and currently stands around $40.",
+    "nlp": [
+        "upcoming",
+        "support",
+        "parachain",
+        "blockchain",
+        "parachains",
+        "slot",
+        "polkadot",
+        "announcement",
+        "binance",
+        "kusama",
+        "auction",
+        "auctions",
+        "polkadots",
+        "networks"
+    ],
+    "source_domain": "cryptopotato.com",
+    "summary": "In an official announcement on Friday, the company revealed that it will start the Polkadot Parachain Slot Auction which is scheduled to commence in November.\nCurrently, the Polkadot Parachain code is finally ready and the auctions are scheduled to start on November 11, 2021.\nThe first batch of the Parachain auctions will last for five weeks, featuring one auction each week.\nAdditionally, every auction will select a parachain slot for a total of 96 weeks.\nDOT Experience Massive SurgeFollowing the announcement of the proposed dates for the Parachain Slot Auction on Wednesday, Polkadot\u2019s native token, $DOT, surged by more than 19% to a high of $43.6 on that same day.",
+    "text": null,
+    "title": "Binance Will Support Polkadot's Upcoming Parachain Auction in November",
+    "title_page": null,
+    "title_rss": null,
+    "url": "https://cryptopotato.com/binance-will-support-polkadots-upcoming-parachain-auction-in-november/"
+}

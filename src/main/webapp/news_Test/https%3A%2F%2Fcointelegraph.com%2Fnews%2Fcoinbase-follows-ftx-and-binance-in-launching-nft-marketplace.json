@@ -1,0 +1,38 @@
+{
+    "authors": [
+        "Turner Wright"
+    ],
+    "date_download": "2021-10-18 20:00:39",
+    "date_modify": null,
+    "date_publish": "2021-10-12 19:00:00",
+    "description": "Sanchan Saxena, Coinbase's vice president of product and ecosystem, said the NFT marketplace would allow users to mint, purchase, discover and showcase Ethereum-based tokens.",
+    "filename": "https%3A%2F%2Fcointelegraph.com%2Fnews%2Fcoinbase-follows-ftx-and-binance-in-launching-nft-marketplace.json",
+    "image_url": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMTAvY2NkYWExODQtMDIyOC00OTM2LWI5NWMtOGFhN2Y2ZGNkMDRiLmpwZw==.jpg",
+    "language": "en",
+    "localpath": null,
+    "maintext": "Major crypto exchange Coinbase has announced that it will be opening a waitlist for a nonfungible marketplace it will launch later this year.\nIn a Tuesday blog post, Coinbase vice president of product and ecosystem Sanchan Saxena said the nonfungible token, or NFT, marketplace would allow its users to mint, purchase, discover and showcase Ethereum-based tokens. According to Saxena, the offering will allow creators to maintain control of their artwork \u201cthrough decentralized contracts and metadata transparency,\u201d with all NFTs on-chain.\nThe Coinbase announcement comes following crypto exchange FTX and its United States-based subsidiary introducing a marketplace wherein users are able to trade NFTs cross-chain through the Ethereum and Solana blockchains. Binance, the world\u2019s largest crypto exchange, entered the NFT market in June by launching a marketplace aimed at minimizing transaction costs.\nWith 68 million verified users and 8.8 million monthly active users as of Q2 2021, Coinbase\u2019s entry into the NFT industry could provide competition for established marketplaces like OpenSea and Rarible. OpenSea\u2019s head of product Nate Chastain is facing criticism for using burner wallets to purchase NFTs on the platform so that the artwork could receive more attention on the website\u2019s front page. The platform mainly uses Ethereum, which dominates sales in the NFT market.\nRelated: Blockchains vie for NFT market, but Ethereum still dominates \u2014 Report\nAccording to data from DappRadar, the total transaction volume on OpenSea was $8.7 billion at the time of publication, making it the largest of the NFT marketplaces. NFT sales through the Pokemon-inspired Axie Infinity game came in second at $2.5 billion.",
+    "nlp": [
+        "users",
+        "expanded",
+        "functionality",
+        "expands",
+        "withdraw",
+        "mainstream",
+        "nfts",
+        "nft",
+        "solana",
+        "trade",
+        "platform",
+        "tokens",
+        "ftxus",
+        "support",
+        "marketplace"
+    ],
+    "source_domain": "cointelegraph.com",
+    "summary": "FTX.US\u2019s nonfungible token (NFT) marketplace has expanded support to the Solana blockchain, enabling users to trade, deposit and withdraw NFTs that conform to the Metaplex token standard.\nThe United States registered branch of FTX announced the expanded functionality on Tuesday, revealing the marketplace also plans to support Ethereum-based tokens in the near future.\nThe pricing for newly minted NFTs on the marketplace is listed in U.S. dollars, Solana (SOL) or Ether (ETH).\nOn Tuesday, Harrison tweeted that the marketplace\u2019s expanded functionality is only available on its U.S.-based platform at this stage.\nUsers must provide identity documents and proof of residence to the exchange in order to deposit and withdraw from FTX\u2019s NFT platform.",
+    "text": null,
+    "title": "Coinbase follows FTX and Binance in launching NFT marketplace",
+    "title_page": null,
+    "title_rss": null,
+    "url": "https://cointelegraph.com/news/coinbase-follows-ftx-and-binance-in-launching-nft-marketplace"
+}
